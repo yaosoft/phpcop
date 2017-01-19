@@ -1,0 +1,2 @@
+# phpcop
+PHP Cop
